@@ -12,7 +12,7 @@ It is a report about a bug which occurs in Galaxy S series.
 
 ## Timeline
 
-### 패키지 이름에 따라서 해상도가 다르다?
+### Different package name, different resolution?
 
 I made a game for Samsung Gear VR with Unity 3D engine.
 Few days ago, I got a report of some customers had crossed-eyes problem who uses Galaxy S8
